@@ -1,0 +1,17 @@
+.app__navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    padding: 1rem 2rem;
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border: rgba(255, 255, 255, 0.18);
+    position: fixed;
+    z-index: 2;
+
+
+}
