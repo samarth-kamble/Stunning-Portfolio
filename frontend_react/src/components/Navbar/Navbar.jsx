@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { HiMenuAlt4, HiX } from "react-icons/hi";
 import { motion } from "framer-motion";
 
-import images from "../../constants";
+import { images } from "../../assets/index";
 import "./Navbar.scss";
 
 const Navbar = () => {
