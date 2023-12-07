@@ -67,5 +67,5 @@ const Header = () => (
     </motion.div>
   </div>
 );
-export default Header;
-// export default AppWrap(Header, "home");
+
+export default AppWrap(Header, "home");
