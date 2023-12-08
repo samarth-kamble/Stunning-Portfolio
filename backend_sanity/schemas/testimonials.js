@@ -1,6 +1,6 @@
 export default {
-  name: 'testimonial',
-  title: 'Testimonial',
+  name: 'testimonials',
+  title: 'Testimonials',
   type: 'document',
   fields: [
     {
@@ -14,8 +14,8 @@ export default {
       type: 'string',
     },
     {
-      name: 'imageurl',
-      title: 'ImgURL',
+      name: 'imgurl',
+      title: 'ImgUrl',
       type: 'image',
       options: {
         hotspot: true,
