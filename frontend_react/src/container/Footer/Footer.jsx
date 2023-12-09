@@ -26,9 +26,9 @@ const Footer = () => {
 
     const contact = {
       _type: "contact",
-      name: formData.username,
-      email: formData.email,
-      message: formData.message,
+      name: username,
+      email: email,
+      message: message,
     };
 
     client
